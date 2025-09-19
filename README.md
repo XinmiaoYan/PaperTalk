@@ -1,6 +1,6 @@
 # PaperTalk
 
-# Welcome to our podcasT!
+# Welcome to our podcast!
 
 Chinese channel: 聊聊Sci
 
